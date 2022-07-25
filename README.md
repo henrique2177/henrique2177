@@ -12,7 +12,7 @@ Java e Sql básicos.
 
 - [Website/Portfólio](https://henrique2177.github.io/HenriqueDaSilva/) 💻 - Confere-lá.
 
-<div style="display: inline">
+<div align:"center">
   <a href="https://github.com/henrique2177">
  
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henrique2177&layout=compact&langs_count=7&theme=merko"/>
